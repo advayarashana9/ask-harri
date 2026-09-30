@@ -1,0 +1,6 @@
+{
+  "name": "Ask Harri",
+  "description": "An AI-powered mental health navigator and support portal for Harris County, offering culturally responsive support, anonymous crisis reporting, and a community clinic directory with voice accessibility.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
